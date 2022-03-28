@@ -12,7 +12,7 @@
 # print("dims: ", dims)
 # print("nickels: ", nickels)
 # print("cents: ", cents)
-
+_______________________________________________________________________
 #print("Enter the price of the item: ")
 #price = float(input())
 
@@ -27,7 +27,7 @@
 # price_per_gram = price / weight 
 
 # print("The price per gram is: $", round(price_per_gram, 2))
-
+____________________________________________________________________________________________________
 # projects = ["Data Science", "Quality Assurance", "Software Testing", "Big Data"]
 # investment_amount = []
 # investment_sum = 0 
@@ -48,7 +48,7 @@
 # print("Average amount invested: $", (investment_sum / len(projects)))
 
 
-
+_______________________________________________________________
 print("Enter number of miles: ")
 miles = int(input())
 print("Enter the number of yards: ")
